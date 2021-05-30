@@ -6,5 +6,6 @@
 - 📫 How to reach me : Linkedin - @yasodatalapu.
 - 😊 Pronoun : she/her.
 - 🤣 Fun fact : I am sleeping more than 20 hours.
-- 
-https://github-readme-stats.vercel.app/api?username=yasoda227&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919
+
+
+![](https://github-readme-stats.vercel.app/api?username=yasoda227&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
