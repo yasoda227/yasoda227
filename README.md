@@ -14,7 +14,7 @@
  <h1 align="center">Hello world! <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="30px"> I'm Yasoda Talapu</h2></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasoda227&label=Profile%20views&color=0e75b6&style=flat" alt="yasoda227" /> </p>
+<h2 align="left">Glad to see you here! 😍 <img src="https://komarev.com/ghpvc/?username=yasoda227&label=Profile%20views&color=0e75b6&style=flat" alt="yasoda227" /> </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasoda227" alt="yasoda227" /></a> </p>
 
@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/yasoda227](https://www.github.com/yasoda227)
 
-- 💬 Ask me about **React, node & express**
+- 💬 Ask me about **Anything! I am happy to help.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yasodatalapu**
 
